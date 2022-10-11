@@ -1,4 +1,4 @@
-from re import X
+# from re import X
 import torch
 import torch.nn as nn
 from torchvision import models

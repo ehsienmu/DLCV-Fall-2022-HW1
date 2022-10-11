@@ -8,8 +8,8 @@ from tqdm import tqdm
 
 from p2_model import *
 from p2_datasets import *
-from p2_tool import fixed_seed
-from torchvision import models
+# from p2_tool import fixed_seed
+# from torchvision import models
 
 # Modify config if you are conducting different models
 from p2_model_cfg import myfcn32_cfg, myfcn8_cfg, resnet50_fcn8_cfg

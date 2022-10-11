@@ -13,7 +13,7 @@ from torchvision.datasets import DatasetFolder
 import glob
 import os
 import argparse
-import scipy.ndimage
+# import scipy.ndimage
 import imageio
 
 from p2_tool import read_masks
