@@ -1,3 +1,11 @@
+# Problem list
+
+**Problem 1:** Image classification
+
+**Problem 2:** Semantic segmentation
+
+
+# Slides
 
 Please click [this link](https://docs.google.com/presentation/d/1lXkZrUrV209kMSGn6Lg37rno0Kp_zbdyxOl0K8F9U_E/edit?usp=sharing) to view the slides of HW1
 
