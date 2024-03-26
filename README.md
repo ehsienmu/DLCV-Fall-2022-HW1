@@ -1,13 +1,18 @@
-# Problem list
+# DLCV-Fall-2022-HW1
+
+## Problem list
 
 **Problem 1:** Image classification
 
 **Problem 2:** Semantic segmentation
 
-
-# Slides
+## Slides
 
 Please click [this link](https://docs.google.com/presentation/d/1lXkZrUrV209kMSGn6Lg37rno0Kp_zbdyxOl0K8F9U_E/edit?usp=sharing) to view the slides of HW1
+
+## Results
+
+Please click [hw1_r10921a36.pdf](https://github.com/ehsienmu/DLCV-Fall-2022-HW1/blob/main/hw1_r10921a36.pdf)
 
 # Usage
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
